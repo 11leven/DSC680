@@ -1,2 +1,2 @@
 # DSC680
-This is the proporal document for week 1
+This is the proposal document for week 1
